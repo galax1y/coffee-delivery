@@ -4,6 +4,8 @@ Desafio proposto na trilha Ignite de React da Rocketseat
 
 [Layout no FIGMA](<https://www.figma.com/file/gGOCVYHoeqwgDfyP0VJ3op/Coffee-Delivery-(Copy)?node-id=0%3A1&t=ix9xhgQyE30bR7Q2-0>)
 
+[Deploy do desafio](https://coffee-delivery-training.web.app/)
+
 ## Descrição do desafio
 
 **Nesse desafio, você vai desenvolver uma aplicação para gerenciar um carrinho de compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:**
